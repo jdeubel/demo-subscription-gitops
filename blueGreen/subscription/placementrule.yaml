@@ -21,4 +21,4 @@ labels:
 spec:
   clusterSelector:
     matchLabels:
-      name: MY_LABELS_2MATCH
+      name: local-cluster
